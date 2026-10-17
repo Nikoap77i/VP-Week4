@@ -115,13 +115,13 @@ val cars = listOf(
     ),
     Car(
         "Toyota Yaris 1M", "Auto", "Petrol", 2016, 80000, "Jagir, Surabaya", "Rp 1.000.000.000",
-        "Sebuah Yaris yang setiap hari melewati jagir sehingga menjadi legenda Yaris 1M",
+        "A Yaris that drives through Jagir every day, eventually becoming the legendary Yaris 1M.",
         image = R.drawable.yaris1m,
         true
     ),
     Car(
         "Toyota Innova 1 of 1", "Auto", "Diesel", 2021, 100000, "Greenlake", "DM For More Info",
-        "Toyota Innova dengan konsep 1 of 1 yang menjadi pelopor di Indonesia, dengan gaya menyetirnya yang sangat luar biasa disertai dengan lagu kebanggaannya 'sampe bawah' ",
+        "The Toyota Innova, featuring a one-of-a-kind concept that pioneered its style in Indonesia. Known for its extraordinary driving style, accompanied by its signature song, “Sampe Bawah.”",
         image = R.drawable.innova1of1,
         true
     ),
@@ -133,7 +133,7 @@ val cars = listOf(
     ),
     Car(
         "Pajero Anomali RFS", "Auto", "Diesel", 2025, 20000, "Graha Family", "Rp 670.000.000",
-        "Pajero anomali dari Graha Family, konon katanya drivernya sedang patah hati maka parkirnya sering miring",
+        "The anomalous Pajero from Graha Family. Legend has it that the driver is going through heartbreak, which explains why the car is always parked at a questionable angle.",
         image = R.drawable.pajero_anomali,
         true
     ),
